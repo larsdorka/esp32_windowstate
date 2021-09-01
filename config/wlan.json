@@ -1,0 +1,12 @@
+{
+  "ssid": [
+    "ssid_1",
+	"ssid_2",
+	"ssid_3"
+  ],
+  "wpa": [
+    "Password_1",
+	"Password_2",
+	"Password_3"
+    ]
+}

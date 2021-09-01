@@ -1,0 +1,11 @@
+{
+  "variables": [
+    {"id": "0", "name": "Buero 0"},
+    {"id": "1", "name": "Buero 1"},
+    {"id": "2", "name": "Buero 2"}
+  ],
+  "period": 10000, 
+  "url": "",
+  "username": "",
+  "password": ""
+}
